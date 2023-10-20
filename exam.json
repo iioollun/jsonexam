@@ -1,11 +1,15 @@
 {
-    "name": "KỶ NIỆM 15 NĂM CA HÁT CỦA TRUNG QUÂN",
+    "name": "VTIX TICKET #345",
     "symbol": "VTX",
     "description": "KỶ NIỆM 15 NĂM CA HÁT CỦA TRUNG QUÂN",
     "background_color": "000000",
     "external_url": "https://vtix.vn/",
     "image": "https://photos.google.com/share/AF1QipPQLEBZYYZCwGz9LI8gXEQG1NvzVrsyyZA6mtSIUklyCj4lsidn_tiFTO-0ZgxqxQ/photo/AF1QipM63iL3R-El5FvUAq2QYutp94F_okkUWE8bSQ21?key=OV9qRFBvS2tnM184cHowWlNBbUVTd1p0TnRhTmdn",
     "attributes": [
+        {
+            "trait_type": "EVENT",
+            "value": "KỶ NIỆM 15 NĂM CA HÁT CỦA TRUNG QUÂN"
+        }, 
         {
             "trait_type": "Zone",
             "value": "A"
