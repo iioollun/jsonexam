@@ -1,0 +1,34 @@
+{
+    "name": "KỶ NIỆM 15 NĂM CA HÁT CỦA TRUNG QUÂN",
+    "symbol": "VTX",
+    "description": "KỶ NIỆM 15 NĂM CA HÁT CỦA TRUNG QUÂN",
+    "background_color": "000000",
+    "external_url": "https://vtix.vn/",
+    "image": "https://photos.google.com/share/AF1QipPQLEBZYYZCwGz9LI8gXEQG1NvzVrsyyZA6mtSIUklyCj4lsidn_tiFTO-0ZgxqxQ/photo/AF1QipM63iL3R-El5FvUAq2QYutp94F_okkUWE8bSQ21?key=OV9qRFBvS2tnM184cHowWlNBbUVTd1p0TnRhTmdn",
+    "attributes": [
+        {
+            "trait_type": "Zone",
+            "value": "A"
+        }, 
+        {
+            "trait_type": "Seat", 
+            "value": "15"
+        }, 
+        {
+            "trait_type": "Email", 
+            "value": "fantrungquan@gmail.com"
+        }, 
+        {
+            "trait_type": "phone", 
+            "value": "+84 388831363"
+        }, 
+        {
+            "trait_type": "Event Time", 
+            "value": "20231028190000+700"
+        }, 
+        {
+            "trait_type": "Benefit", 
+            "value": "1 Phần nước miễn phí, Thần tượng ký tên"
+        }
+    ]
+}
